@@ -1,0 +1,10 @@
+.screen{
+  background-size: cover;
+  background-position: center;
+  width: 270px;
+  height: 210px;
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+}

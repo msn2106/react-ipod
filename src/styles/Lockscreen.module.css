@@ -1,0 +1,10 @@
+.bottomLockMsgDiv{
+  width: 270px;
+  height: 40px;
+  background-color: #E3F2F0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+  
+}

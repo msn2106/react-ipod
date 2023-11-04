@@ -1,0 +1,29 @@
+.navbar{
+  margin-top: -1px;
+  display: flex;
+  flex-direction: row;
+  width: 270px;
+  height: 20px;
+  min-height: 20px;
+  background-color: #E3F2F0;
+  border-bottom: 1px solid black;
+}
+
+.heading{
+  margin: 1px 5px;
+  padding: 0px;
+}
+
+.time {
+  padding: 0px;
+  margin: auto;
+}
+
+.battery{
+  display: flex;
+  flex-direction: row;
+  margin-left: 15px;
+  width: 22px;
+  height: 20px;
+}
+
